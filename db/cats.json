@@ -7,5 +7,23 @@
     "age": "2",
     "breed": "Bengal",
     "story": "Thrown on the street"
+  },
+  {
+    "imageURL":"https://i.ytimg.com/vi/lASZYE3ffiI/hqdefault.jpg", 
+    "imageDescription": "Black cat perched on couch.",
+    "name": "Leo",
+    "sex": "Male",
+    "age": "2",
+    "breed": "Bombay",
+    "story": "I don't know."
+  },
+  {
+    "imageURL":"https://assets3.thrillist.com/v1/image/2622128/size/tmg-slideshow_l.jpg", 
+    "imageDescription": "Orange bengal cat with black stripes lounging on concrete.",
+    "name": "Fluffy #2",
+    "sex": "Female",
+    "age": "2",
+    "breed": "Bengal",
+    "story": "Thrown on the street"
   }
 ]
