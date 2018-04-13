@@ -13,7 +13,8 @@ router.get('/cat', (req, res) => {
 
 /* ========== DELETE THE FIRST ITEM ========== */
 router.delete('/cat', (req, res) => {
-  res.json(Cat.dequeue());
+  Cat.dequeue();
+  res.json(peek(Cat));
 });
 
 module.exports = router;

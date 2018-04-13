@@ -12,7 +12,8 @@ router.get('/dog', (req, res, next) => {
 
 
 router.delete('/dog', (req, res, next) => {
-  res.json(Dog.dequeue());
+  Dog.dequeue();
+  res.json(peek(Dog));
 });
 
 module.exports = router;
