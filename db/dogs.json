@@ -8,39 +8,39 @@
     "story": "Owner Passed away"
   },
   {
-    "imageURL": "",
-    "imageDescription": "",
-    "name": "",
-    "sex": "",
-    "age": "",
-    "breed": "",
-    "story": ""
+    "imageURL": "https://www.cesarsway.com/dog-behavior/innocuous-behaviors/common-dog-behaviors-explained",
+    "imageDescription": "abcdefghijklmnopqrstuvwxyz",
+    "name": "Cesar",
+    "sex": "Male",
+    "age": "3",
+    "breed": "unknown",
+    "story": "abcdefghijklmnopqrstuvwxyz"
   },
   {
-    "imageURL": "",
-    "imageDescription": "",
-    "name": "",
-    "sex": "",
-    "age": "",
-    "breed": "",
-    "story": ""
+    "imageURL": "https://www.nationalgeographic.com/animals/mammals/d/domestic-dog/",
+    "imageDescription": "abcdefghijklmnopqrstuvwxyz",
+    "name": "Diamond",
+    "sex": "Female",
+    "age": "4",
+    "breed": "Golden Retriever/Rottweiler",
+    "story": "abcdefghijklmnopqrstuvwxyz"
   },
   {
-    "imageURL": "",
-    "imageDescription": "",
-    "name": "",
-    "sex": "",
-    "age": "",
-    "breed": "",
-    "story": ""
+    "imageURL": "http://marshallspetzone.blogspot.com/2017/03/rottweiler-of-most-misunderstood-breed.html",
+    "imageDescription": "abcdefghijklmnopqrstuvwxyz",
+    "name": "Princess",
+    "sex": "Female",
+    "age": "4",
+    "breed": "Golden Retriever/Rottweiler",
+    "story": "abcdefghijklmnopqrstuvwxyz"
   },
   {
-    "imageURL": "",
-    "imageDescription": "",
-    "name": "",
-    "sex": "",
-    "age": "",
-    "breed": "",
-    "story": ""
+    "imageURL": "https://www.pocketpitbull.com/american-pitbull-terrier-need-know/",
+    "imageDescription": "abcdefghijklmnopqrstuvwxyz",
+    "name": "Royce",
+    "sex": "Male",
+    "age": "2",
+    "breed": "Shaggy",
+    "story": "abcdefghijklmnopqrstuvwxyz"
   }
 ]
