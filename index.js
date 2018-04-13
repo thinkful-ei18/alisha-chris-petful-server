@@ -9,6 +9,7 @@ const { dbConnect } = require('./db-mongoose');
 // const {dbConnect} = require('./db-knex');
 
 const catsRouter = require('./routes/cats');
+const dogsRouter = require('./routes/dogs.route');
 
 const app = express();
 
@@ -25,6 +26,7 @@ app.use(
 );
 
 app.use('/api', catsRouter);
+app.use('/api', dogsRouter);
 
 function runServer(port = PORT) {
   const server = app
